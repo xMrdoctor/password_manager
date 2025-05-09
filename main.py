@@ -5,7 +5,7 @@ import sys
 
 # Add the project directory to the path so we can import from utils
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from Tkinter_Password_Manager.utils.helpers import (
+from password_manager.utils.helpers import (
     initialize_database, 
     add_password, 
     get_all_passwords, 
