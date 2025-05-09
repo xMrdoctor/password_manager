@@ -46,8 +46,8 @@ Tkinter_Password_Manager/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Tkinter_Password_Manager.git
-    cd Tkinter_Password_Manager
+    git clone https://github.com/xMrDoctor/password_manager.git
+    cd password_manager
     ```
 
 2. Run the application:
@@ -83,4 +83,4 @@ This project is licensed under the MIT License. Feel free to use and modify.
 
 ---
 
-> Built with 💻 by [YourName]
+> Built with 💻 by [Mr Dcotor]
